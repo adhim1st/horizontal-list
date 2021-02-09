@@ -4,7 +4,7 @@
 
 1. Install depedency
 
-   `json npm install`
+   `npm install`
 
 2. Start dummy server using jsonserver
 
