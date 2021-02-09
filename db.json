@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Mumba Blade Case Nintendo",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/615vsb5YwkL._AC_SL1200_.jpg",
+      "price": 265000,
+      "cashback": true,
+      "discount": 0,
+      "heart": false,
+      "star_rating": 5,
+      "star_count": 94
+    },
+    {
+      "id": 2,
+      "title": "Cafflano - Klassic Coffe Maker Red",
+      "img_url": "https://s1.bukalapak.com/img/65102323/large/featured_img_011.png",
+      "price": 1300000,
+      "cashback": false,
+      "discount": 0,
+      "heart": false,
+      "star_rating": 5,
+      "star_count": 14
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi Official Miband 5 Mi Band Smartband Smartwatch",
+      "img_url": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//98/MTA-8166617/xiaomi_xiaomi_mi_band_5_smartband_amoled_-_miband_5_smartwatch_original_full02_coupy6cc.jpg",
+      "price": 449000,
+      "cashback": false,
+      "discount": 11,
+      "heart": false,
+      "star_rating": 5,
+      "star_count": 2922
+    },
+    {
+      "id": 4,
+      "title": "Nintendo Switch GuliKit KingKong Pro Controller",
+      "img_url": "https://www.jakartanotebook.com/images/products/92/1020/42942/2/gulikit-power-banknintendo-switch-usb-type-c-10000mah-m10p-black-1.jpg",
+      "price": 499000,
+      "cashback": true,
+      "discount": 0,
+      "heart": false,
+      "star_rating": 5,
+      "star_count": 140
+    },
+    {
+      "id": 5,
+      "title": "Nintendo Switch Nyko Thin Case",
+      "img_url": "https://cf.shopee.co.id/file/78e60051d9d5cde26a752b4470eb130f",
+      "price": 155000,
+      "cashback": true,
+      "discount": 0,
+      "heart": false,
+      "star_rating": 5,
+      "star_count": 302
+    },
+    {
+      "id": 6,
+      "title": "Xiomi Mi Smart Scale 2 Body Fat Analyser Original",
+      "img_url": "https://ae01.alicdn.com/kf/HTB1VQMDXO_1gK0jSZFqq6ApaXXa2/Original-Xiaomi-mi-smart-scale-2-Origin-Body-Weigh-Scale-Digital-scale-For-Android-4-4.jpg",
+      "price": 289000,
+      "cashback": false,
+      "discount": 0,
+      "heart": false,
+      "star_rating": 5,
+      "star_count": 1131
+    }
+  ]
+}
